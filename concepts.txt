@@ -1,0 +1,1 @@
+Time complexity = No. of states * avg transition time for each state
